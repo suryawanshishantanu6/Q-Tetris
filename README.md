@@ -1,7 +1,7 @@
 # Q-Tetris
 Tetris Game Using Deep Q Learning
 
-##Requirements:
+## Requirements:
 
 tensorflow
 tensorboard
@@ -11,7 +11,7 @@ numpy
 Pillow
 tqdm
 
-##Usage
+## Usage
 
 #python run.py
 
