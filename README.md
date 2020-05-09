@@ -3,13 +3,13 @@ Tetris Game Using Deep Q Learning
 
 ## Requirements:
 
-tensorflow
-tensorboard
-Keras
-opencv-python
-numpy
-Pillow
-tqdm
+- tensorflow
+- tensorboard
+- Keras
+- opencv-python
+- numpy
+- Pillow
+- tqdm
 
 ## Usage
 
